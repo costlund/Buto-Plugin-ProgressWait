@@ -1,0 +1,9 @@
+-
+  type: progress
+  attribute:
+    value: 0
+    max: rs:max
+    id: rs:id
+-
+  type: script
+  innerHTML: rs:script
